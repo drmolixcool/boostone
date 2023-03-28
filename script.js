@@ -15,7 +15,7 @@ const random_string_list = [
     "Les cartes +4 qui te vise se retourne contre l'envoyeur durant cette partie",
     "Tu peux choisir n'importe quelle couleur parmi les 4 (loi Amandine non appliqué)",
     "Mélange des cartes de tous les joueurs et redistribution (carte de la République)",
-    "Si un ou plusieurs joueur n'ont plus qu'une seule carte, ceux-ci doivent piocher 3 cartes",
+    "Si un ou plusieurs joueur(s) n'ont plus qu'une seule carte, ceux-ci doivent piocher 3 cartes",
     "C'est ton jour de bonté ! : tu dois donner une carte de ton jeu à un autre joueur",
     "Appuie une deuxième fois sur le bouton",
     "Appuie une deuxième fois sur le bouton",
