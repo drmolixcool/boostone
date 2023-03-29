@@ -9,7 +9,7 @@ body {
     left: 50%;
     transform: translate(-50%, -50%);
 
-    background-color: orange;
+    background-color: #FFAA00;
     border-radius: 10px;
 
     padding: 5% 10%;
@@ -28,19 +28,21 @@ body {
 }
 
 #generate_button {
-    background-color: red;
+    background-color: #FF7400;
     border: none;
     border-radius: 100px;
 
     font-family: Arial, sans-serif;
     font-weight: bold;
     font-size: 500%;
-    color: orangered;
+    color: #FFAA64;
+    
+    cursor: pointer;
 }
 
 .clicked {
-    background-color: orangered !important;
-    color: red !important;
+    background-color: #FF0000 !important;
+    color: #FF3939 !important;
 }
 
 #generated_text {
