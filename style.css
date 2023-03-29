@@ -9,7 +9,7 @@ body {
     left: 50%;
     transform: translate(-50%, -50%);
 
-    background-color: yellow;
+    background-color: orange;
     border-radius: 10px;
 
     padding: 5% 10%;
@@ -35,11 +35,11 @@ body {
     font-family: Arial, sans-serif;
     font-weight: bold;
     font-size: 500%;
-    color: orange;
+    color: orangered;
 }
 
 .clicked {
-    background-color: orange !important;
+    background-color: orangered !important;
     color: red !important;
 }
 
